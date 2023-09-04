@@ -96,7 +96,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   /* background-color: white; */
   border: 2px solid #000;
   width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  height: 32px; /* Alto deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-left: -2px;
   margin-top: 30px;
@@ -108,7 +108,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   /* background-color: white; */
   border: 2px solid #000;
   width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  height: 38px; /* Alto deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-left: -2px;
   margin-top: -22px;
@@ -119,7 +119,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   /* background-color: white; */
   border: 2px solid #000;
   width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  height: 32px; /* Alto deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-left: -2px;
   margin-top: -22px;
@@ -183,7 +183,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   font-weight: bold; /* Grosor de la fuente (negrita) */
   width: 100%;
   margin-left: 258px;
-  margin-top: 8px;
+  margin-top: 3px;
   
 }
 
@@ -197,7 +197,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   font-weight: bold; /* Grosor de la fuente (negrita) */
   width: 100%;
   margin-left: 10px;
-  margin-top: 8px;
+  margin-top: 3px;
   
 }
 
@@ -211,7 +211,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   font-weight: bold; /* Grosor de la fuente (negrita) */
   width: 100%;
   margin-left: 10px;
-  margin-top: 8px;
+  margin-top: 3px;
   
 }
 /* Estilos responsivos */
