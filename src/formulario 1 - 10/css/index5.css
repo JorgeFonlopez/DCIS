@@ -73,10 +73,10 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text2{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 698px; /* Ancho deseado en píxeles o porcentaje */
-  height: 30px; /* Alto deseado en píxeles o porcentaje */
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 32px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 100px;
+  margin-left: -2px;
   margin-top: -22px;
 
 }
@@ -110,8 +110,8 @@ hasta aqui va el container de encabezado y comienza el de contenido
 
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
   font-weight: bold; /* Grosor de la fuente (negrita) */
-  width: 90%;
-  margin-left: 112px;
+  width: 100%;
+  margin-left: 185px;
   margin-top: 8px;
 }
 /* Estilos responsivos */
