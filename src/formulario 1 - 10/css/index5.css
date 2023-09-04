@@ -10,6 +10,7 @@ body{
     padding: 20px 10px; /* Añade espacio interno al contenedor */
     text-align: center; /* Centra el contenido horizontalmente */
     box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */  
+    height: 5000px;
 }
 
   
@@ -69,6 +70,16 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-top: -96px;
 
 }
+.conatiener_desarrollo_text2{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 698px; /* Ancho deseado en píxeles o porcentaje */
+  height: 30px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 100px;
+  margin-top: -22px;
+
+}
 .container-contenido p{
     text-align: start;
     height: 5px;
@@ -91,6 +102,18 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 5%;
 }
 
+.conatiener_desarrollo_text2 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 112px;
+  margin-top: 8px;
+}
 /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {
