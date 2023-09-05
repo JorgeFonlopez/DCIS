@@ -10,7 +10,7 @@ body{
     padding: 20px 10px; /* Añade espacio interno al contenedor */
     text-align: center; /* Centra el contenido horizontalmente */
     box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */  
-    height: 1200px;
+    height: 1300px;
 }
 
   
@@ -79,81 +79,7 @@ body{
     background-color: rgb(187, 186, 185);
   }
 
-  .conatiener_apecto4{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 86px; /* Ancho deseado en píxeles o porcentaje */
-    height: 60px; /* Alto deseado en píxeles o porcentaje */
-    margin: 20px auto;
-    margin-left: -1px;
-    margin-top: -21px;
-    background-color: rgb(187, 186, 185);
-  }
-  .conatiener_apecto5{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 87px;
-    height: 60px;
-    margin: 20px auto;
-    margin-left: 87px;
-    margin-top: -83px;
-    background-color: rgb(187, 186, 185);
-  }
-  .conatiener_apecto6{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 135px;
-    height: 60px;
-    margin: 20px auto;
-    margin-left: 176px;
-    margin-top: -82px;
-    background-color: rgb(187, 186, 185);
-  }
 
-  .conatiener_apecto7{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 144px;
-    height: 60px;
-    margin: 20px auto;
-    margin-left: 313px;
-    margin-top: -82px;
-    background-color: rgb(187, 186, 185);
-  }
-
-  .conatiener_apecto8{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 140px;
-    height: 60px;
-    margin: 20px auto;
-    margin-left: 459px;
-    margin-top: -82px;
-    background-color: rgb(187, 186, 185);
-  }
-
-  .conatiener_apecto9{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 111px;
-    height: 59px;
-    margin: 20px auto;
-    margin-left: 602px;
-    margin-top: -82px;
-    background-color: rgb(187, 186, 185);
-  }
-
-  .conatiener_apecto10{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 84px;
-    height: 60px;
-    margin: 20px auto;
-    margin-left: 715px;
-    margin-top: -82px;
-    background-color: rgb(187, 186, 185);
-  }
- 
 
   /* aca termina los container */
   
@@ -195,98 +121,27 @@ body{
     margin-left: 160px;
     margin-top:9px;
   }
+/* styilo del la tabla */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: -19px;
+}
 
-  .conatiener_apecto4 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+tr:first-child {
+    background-color: rgb(187, 186, 185);
     color: rgb(0, 0, 0);
-  
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-    width: 90%;
-    margin-left: 17px;
-    margin-top:24px;
-  }
-
-  .conatiener_apecto5 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-  
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-    width: 90%;
-    margin-left: 25px;
-    margin-top:24px;
-  }
-
-  .conatiener_apecto6 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    width: 90%;
-    margin-left: 14px;
-    margin-top: 24px;
-  }
-
-  .conatiener_apecto7 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    width: 90%;
-    margin-left: 31px;
-    margin-top: 24px;
-  }
-
-  .conatiener_apecto8 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    width: 40%;
-    margin-left: 26px;
-    margin-top: 16px;
-  }
-
-  .conatiener_apecto9 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-  
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-    width: 90%;
-    margin-left: 25px;
-    margin-top:24px;
-  }
-
-  .conatiener_apecto10 p{
-    text-align: start;
-    height: 5px;
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-    width: 90%;
-    margin-left: 37px;
-    margin-top: 24px;
-  }
-
-
-
-
-
+}
   /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {
