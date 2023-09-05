@@ -232,6 +232,28 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-top: -21px;
   background-color: rgb(187, 186, 185);
 }
+.conatiener_desarrollo_text17{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 442px; /* Ancho deseado en píxeles o porcentaje */
+  height: 60px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 356px;
+  margin-top: -134px;
+
+}
+.conatiener_desarrollo_text18{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 442px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 356px;
+  margin-top: -21px;
+
+}
+
+
 
 /* aqui termina los container */
 
