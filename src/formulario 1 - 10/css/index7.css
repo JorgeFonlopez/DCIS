@@ -1,0 +1,161 @@
+body{
+    background-color: rgb(64, 64, 64);
+    margin: 0; /* Elimina el margen predeterminado del body */
+}
+
+.container-alfa {
+    background-color: #ffffff;
+    margin: 20px auto; /* Centra el contenedor horizontalmente con margen */
+    max-width: 850px; /* Ancho máximo del contenedor */
+    padding: 20px 10px; /* Añade espacio interno al contenedor */
+    text-align: center; /* Centra el contenido horizontalmente */
+    box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */  
+    height: 1390px;
+}
+
+  
+.container-encabezado{
+    border: 2px solid #000;
+    overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
+    margin-bottom: 20px;
+    height: auto; /* Alto deseado en píxeles o porcentaje */
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    margin: 0 auto;
+}
+
+.container-encabezado p{
+    text-align: center;
+    font-size: 14px; 
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+}
+.img-encabezado {
+    border-right: 2px solid black;
+    float: left;
+    margin-right: 10px;
+    max-width: 100%; /* Ajusta el ancho máximo de la imagen al 100% */
+    height: auto;
+  }
+
+/* aqui termina todo lo del encabezado  */
+
+.container-contenido2{
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 34px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+}
+
+.conatiener_apecto1{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 34px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-left: -1px;
+    margin-top: -1px;
+    background-color: rgb(187, 186, 185);
+  
+  }
+
+  .conatiener_apecto2{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 40px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-left: -1px;
+    margin-top: -22px;
+  
+  }
+
+  .conatiener_apecto3{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 30px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-left: -1px;
+    margin-top: 40px;
+    background-color: rgb(187, 186, 185);
+  }
+
+
+
+  /* aca termina los container */
+  
+
+  .conatiener_apecto1 p{
+    text-align: start;
+    height: 5px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+  
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+    width: 90%;
+    margin-left: 11px;
+    margin-top:12px;
+  }
+
+  .conatiener_apecto2 p{
+    text-align: start;
+    height: 5px;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+  
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+    width: 90%;
+    margin-left: 11px;
+    margin-top:3px;
+  }
+  .conatiener_apecto3 p{
+    text-align: start;
+    height: 5px;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+  
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+    width: 90%;
+    margin-left: 160px;
+    margin-top:9px;
+  }
+/* styilo del la tabla */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: -19px;
+    margin-left: -1px;
+    
+    
+}
+
+th, td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+    margin-top: -100px;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+tr:first-child {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+   
+
+}
+  /* Estilos responsivos */
+@media (max-width: 768px) {
+    .container-alfa {
+      padding: 10px; /* Reduce el espacio interno en dispositivos más pequeños */
+    }
+  
+    .container-contenido p {
+      font-size: 12px; /* Reduce el tamaño de fuente en dispositivos más pequeños */
+    }
+  }
+  
