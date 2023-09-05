@@ -140,13 +140,100 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text8{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 604px; /* Ancho deseado en píxeles o porcentaje */
+  width: 605px; /* Ancho deseado en píxeles o porcentaje */
   height: 100px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 194px;
-  margin-top: -124px;
+  margin-left: 193px;
+  margin-top: -122px;
 
 }
+
+.conatiener_desarrollo_text9{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  height: 60px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: -2px;
+  margin-top: -21px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text10{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 605px; /* Ancho deseado en píxeles o porcentaje */
+  height: 60px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 193px;
+  margin-top: -83px;
+}
+
+.conatiener_desarrollo_text11{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  height: 60px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: -2px;
+  margin-top: -21px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text12{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 605px; /* Ancho deseado en píxeles o porcentaje */
+  height: 60px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 193px;
+  margin-top: -83px;
+}
+
+.conatiener_desarrollo_text13{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  height: 112px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: -2px;
+  margin-top: -21px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text14{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 100px; /* Ancho deseado en píxeles o porcentaje */
+  height: 111px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 193px;
+  margin-top: -134px;
+}
+
+.conatiener_desarrollo_text15{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 60px; /* Ancho deseado en píxeles o porcentaje */
+  height: 60px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 294px;
+  margin-top: -134px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text16{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 60px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 294px;
+  margin-top: -21px;
+  background-color: rgb(187, 186, 185);
+}
+
+/* aqui termina los container */
 
 .container-contenido p{
     text-align: start;
@@ -262,6 +349,111 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 10px;
   margin-top: 42px;
 }
+
+.conatiener_desarrollo_text9 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 21px;
+}
+
+.conatiener_desarrollo_text10 p{
+  text-align: start;
+  height: 5px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 21px;
+}
+
+.conatiener_desarrollo_text11 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 14px;
+}
+
+.conatiener_desarrollo_text12 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 26px;
+}
+
+.conatiener_desarrollo_text13 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 21px;
+}
+
+.conatiener_desarrollo_text14 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 38px;
+  margin-top:46px;
+}
+
+.conatiener_desarrollo_text15 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 11px;
+  margin-top:24px;
+}
+.conatiener_desarrollo_text16 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 11px;
+  margin-top:10px;
+}
+
+/* aqui termina el la modificaion del tex dentro del container */
 /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {
