@@ -39,7 +39,7 @@ body{
 /* aqui termina todo lo del encabezado  */
 
 .container-contenido2{
-    border: 2px solid #000;
+    border: 2px solid #ffffff;
     width: 800px; /* Ancho deseado en píxeles o porcentaje */
     height: 34px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;

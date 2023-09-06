@@ -1,0 +1,508 @@
+body{
+    background-color: rgb(64, 64, 64);
+    margin: 0; /* Elimina el margen predeterminado del body */
+}
+
+.container-alfa {
+    background-color: #ffffff;
+    margin: 20px auto; /* Centra el contenedor horizontalmente con margen */
+    max-width: 850px; /* Ancho máximo del contenedor */
+    padding: 20px 10px; /* Añade espacio interno al contenedor */
+    text-align: center; /* Centra el contenido horizontalmente */
+    box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */  
+    height: 1200px;
+}
+
+  
+.container-encabezado{
+    border: 2px solid #000;
+    overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
+    margin-bottom: 20px;
+    height: auto; /* Alto deseado en píxeles o porcentaje */
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    margin: 0 auto;
+}
+
+.container-encabezado p{
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+    height: 24px;
+}
+.img-encabezado {
+    border-right: 2px solid black;
+    float: left;
+    margin-right: 10px;
+    max-width: 100%; /* Ajusta el ancho máximo de la imagen al 100% */
+    height: auto;
+  }
+
+
+/* 
+hasta aqui va el container de encabezado y comienza el de contenido
+*/
+.container-contenido{
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    margin: 20px auto;
+}
+
+.conatiener_desarrollo_text{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 2%; /* Alto deseado en píxeles o porcentaje */
+  margin: -20px auto;
+  /* margin-left: -2px; */
+  margin-top: 30px;
+  background-color: rgb(187, 186, 185);
+}
+.conatiener_desarrollo_text1{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  /* margin-left: 2px; */
+  margin-top: 30px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text2{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 18px auto;
+  margin-left: 13px;
+  margin-top: -22px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text3{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 210px;
+  margin-top: -72px;
+
+}
+
+.conatiener_desarrollo_text4{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  height: 55px; /* Alto deseado en píxeles o porcentaje */
+  margin: 18px auto;
+  margin-left: 13px;
+  margin-top: -22px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text5{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  height: 55px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 210px;
+  margin-top: -76px;
+
+}
+
+.conatiener_desarrollo_text6{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 18px auto;
+  margin-left: 13px;
+  margin-top: -22px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text7{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 210px;
+  margin-top: -72px;
+
+}
+
+.conatiener_desarrollo_text8{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 564px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 18px auto;
+  margin-left: 13px;
+  margin-top: -22px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text9{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 233px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 580px;
+  margin-top: -72px;
+
+}
+
+.conatiener_desarrollo_text10{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-top: -20px;
+  background-color: rgb(187, 186, 185);
+}
+.conatiener_desarrollo_text11{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-top: -20px;
+  background-color: rgb(187, 186, 185);
+}
+
+.conatiener_desarrollo_text12{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 7%; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  /* margin-left: -2px; */
+  margin-top: -21px;
+
+}
+.conatiener_desarrollo_text13{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-top: -20px;
+  background-color: rgb(187, 186, 185);
+}
+.conatiener_desarrollo_text14{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-top: -20px;
+  background-color: rgb(187, 186, 185);
+}
+.conatiener_desarrollo_text15{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 52px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  /* margin-left: -2px; */
+  margin-top: -21px;
+
+}
+.conatiener_desarrollo_text16{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 22px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-top: -20px;
+  background-color: rgb(187, 186, 185);
+}
+.conatiener_desarrollo_text17{
+  /* background-color: white; */
+  border: 2px solid #000;
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  height: 52px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  /* margin-left: -2px; */
+  margin-top: -21px;
+
+}
+.btn {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+/* Estilo para el botón de éxito (verde) */
+.btn-primary {
+  color: #fff;
+  background-color: #28a745; /* Verde de Bootstrap */
+  border-color: #28a745; /* Verde de Bootstrap */
+  margin-top: 2%;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745; /* Verde de Bootstrap */
+    border-color: #28a745; /* Verde de Bootstrap */
+    margin-top: 2%;
+    margin-left: 65%;
+    width: 14%;
+}
+
+/* aqui termina los container */
+
+.container-contenido p{
+    text-align: start;
+    height: 5px;
+    font-size: 13px;
+    color: black;
+
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+}
+
+.conatiener_desarrollo_text p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-left: 258px;
+  margin-top: 3px;
+  
+}
+.conatiener_desarrollo_text1 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-left: 258px;
+  margin-top: 3px;
+  
+}
+
+.conatiener_desarrollo_text2 p{
+  text-align: start;
+  height: 5px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.conatiener_desarrollo_text3 p{
+  text-align: start;
+  height: 5px;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.conatiener_desarrollo_text4 p{
+  text-align: start;
+  height: 5px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.conatiener_desarrollo_text5 p{
+  text-align: start;
+  height: 5px;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.conatiener_desarrollo_text6 p{
+  text-align: start;
+  height: 5px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.conatiener_desarrollo_text7 p{
+  text-align: start;
+  height: 5px;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.conatiener_desarrollo_text8 p{
+  text-align: start;
+  height: 5px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.conatiener_desarrollo_text9 p{
+  text-align: center;
+  height: 5px;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  width: 90%;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.conatiener_desarrollo_text10 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-left: 10px;
+  margin-top: 3px;
+  
+}
+.conatiener_desarrollo_text11 p{
+  text-align: center;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-top: 3px;
+  
+}
+.conatiener_desarrollo_text12 p{
+  text-align: center;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-top: 3px;
+  
+}
+.conatiener_desarrollo_text13 p{
+  text-align: center;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-top: 3px;
+  
+}
+
+.conatiener_desarrollo_text14 p{
+  text-align: center;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-top: 3px;
+  
+}
+.conatiener_desarrollo_text15 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 11px;
+  margin-top:12px;
+}
+.conatiener_desarrollo_text16 p{
+  text-align: center;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-top: 3px;
+  
+}
+.conatiener_desarrollo_text17 p{
+  text-align: start;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 90%;
+  margin-left: 11px;
+  margin-top:12px;
+}
+/* aqui termina el la modificaion del tex dentro del container */
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    .container-alfa {
+      padding: 10px; /* Reduce el espacio interno en dispositivos más pequeños */
+    }
+  
+    .container-contenido p {
+      font-size: 12px; /* Reduce el tamaño de fuente en dispositivos más pequeños */
+    }
+  }
+  
