@@ -40,6 +40,7 @@ body {
   margin-top: 26px;
   background-color: rgb(187, 186, 185);
 }
+
 .container_apecto2 p {
   margin-top: 7px;
   font-weight: bold;
@@ -65,17 +66,20 @@ body {
   margin: 40px auto;
   margin-left: 12px;
   margin-top: -42px;
+  background-color: rgb(187, 186, 185);
 }
 
 .container_izquierdo2 {
   background-color: white;
   border: 2px solid #000;
   width: 228px;
-  height: 85px;
+  height: 128px;
   margin: 40px auto;
   margin-left: 12px;
+  background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
+
 .container_izquierdo3 {
   background-color: white;
   border: 2px solid #000;
@@ -83,18 +87,113 @@ body {
   height: 58px;
   margin: 40px auto;
   margin-left: 12px;
+  background-color: rgb(187, 186, 185);
+  margin-top: -41px;
+}
+
+.container_izquierdo4 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 228px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 12px;
+  background-color: rgb(187, 186, 185);
+  margin-top: -41px;
+}
+
+.container_izquierdo5 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 228px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 12px;
+  background-color: rgb(187, 186, 185);
+  margin-top: -42px;
+}
+
+.container_izquierdo6 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 228px;
+  height: 85px;
+  margin: 40px auto;
+  margin-left: 12px;
+  background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
 
 /*Aqui finalizan los containers de la izquierda*/
 
 /*Aqui empiezan los containers de la derecha*/
-.container_derecho {
+.container_derecho1 {
   background-color: white;
   border: 2px solid #000;
   width: 570px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
-  margin-top: -309px;
+  margin-top: -621px;
+}
+
+.container_derecho1 p{
+  margin-top: 20px;
+  text-align: start;
+}
+.container_derecho2 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
+}
+.container_derecho2 p{
+  margin-top: 10px;
+  text-align: start;
+}
+
+.container_derecho3 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 128px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
+}
+
+.container_derecho3 p{
+  margin-top: 0px;
+  text-align: start;
+}
+
+.container_derecho4 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -41px;
+}
+.container_derecho4 p{
+  margin-top: 10px;
+  text-align: start;
+}
+
+.container_derecho5 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -41px;
+}
+.container_derecho5 p{
+  margin-top: 10px;
+  text-align: start;
 }
