@@ -45,7 +45,82 @@ body {
   margin-top: 7px;
   font-weight: bold;
 }
+.container_apecto3 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 800px;
+  height: 31px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: -8px;
+  background-color: rgb(187, 186, 185);
+}
 
+.container_apecto3 p {
+  margin-top: 7px;
+  font-weight: bold;
+}
+
+.container_izquierdo1_0 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 228px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 12px;
+  background-color: rgb(187, 186, 185);
+  margin-top: 4px;
+}
+
+.container_izquierdo2_0 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 228px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 12px;
+  background-color: rgb(187, 186, 185);
+  margin-top: -42px;
+}
+
+.container_izquierdo3_0 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 228px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 12px;
+  background-color: rgb(187, 186, 185);
+  margin-top: -42px;
+}
+
+.container_derecho1_0 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 571px;
+  height: 56px;
+  margin: 40px auto;
+  margin-left: 241px;
+  margin-top: -221px;
+}
+.container_derecho2_0 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 59px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
+}
+.container_derecho3_0 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
+}
 /*Aqui empiezan los containers de la izquierda*/
 .container_izquierdo {
   background-color: white;
@@ -73,7 +148,7 @@ body {
   background-color: white;
   border: 2px solid #000;
   width: 228px;
-  height: 128px;
+  height: 142px;
   margin: 40px auto;
   margin-left: 12px;
   background-color: rgb(187, 186, 185);
@@ -117,7 +192,7 @@ body {
   background-color: white;
   border: 2px solid #000;
   width: 228px;
-  height: 85px;
+  height: 96px;
   margin: 40px auto;
   margin-left: 12px;
   background-color: rgb(187, 186, 185);
@@ -134,10 +209,10 @@ body {
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
-  margin-top: -621px;
+  margin-top: -646px;
 }
 
-.container_derecho1 p{
+.container_derecho1 p {
   margin-top: 20px;
   text-align: start;
 }
@@ -150,7 +225,7 @@ body {
   margin-left: 242px;
   margin-top: -42px;
 }
-.container_derecho2 p{
+.container_derecho2 p {
   margin-top: 10px;
   text-align: start;
 }
@@ -159,13 +234,13 @@ body {
   background-color: white;
   border: 2px solid #000;
   width: 570px;
-  height: 128px;
+  height: 142px;
   margin: 40px auto;
   margin-left: 242px;
   margin-top: -42px;
 }
 
-.container_derecho3 p{
+.container_derecho3 p {
   margin-top: 0px;
   text-align: start;
 }
@@ -179,7 +254,7 @@ body {
   margin-left: 242px;
   margin-top: -41px;
 }
-.container_derecho4 p{
+.container_derecho4 p {
   margin-top: 10px;
   text-align: start;
 }
@@ -193,7 +268,37 @@ body {
   margin-left: 242px;
   margin-top: -41px;
 }
-.container_derecho5 p{
+.container_derecho5 p {
   margin-top: 10px;
   text-align: start;
+}
+
+.container_derecho6 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
+}
+
+.container_derecho7 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 58px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
+}
+
+.container_derecho8 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 570px;
+  height: 96px;
+  margin: 40px auto;
+  margin-left: 242px;
+  margin-top: -42px;
 }
