@@ -71,6 +71,11 @@ body {
   background-color: rgb(187, 186, 185);
   margin-top: 4px;
 }
+.container_izquierdo1_0 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
+}
 
 .container_izquierdo2_0 {
   background-color: white;
@@ -81,6 +86,11 @@ body {
   margin-left: 12px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
+}
+.container_izquierdo2_0 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
 }
 
 .container_izquierdo3_0 {
@@ -93,6 +103,11 @@ body {
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
+.container_izquierdo3_0 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
+}
 
 .container_derecho1_0 {
   background-color: white;
@@ -103,6 +118,10 @@ body {
   margin-left: 241px;
   margin-top: -221px;
 }
+.container_derecho1_0 p {
+  margin-top: 8px;
+  text-align: start;
+}
 .container_derecho2_0 {
   background-color: white;
   border: 2px solid #000;
@@ -112,6 +131,10 @@ body {
   margin-left: 242px;
   margin-top: -42px;
 }
+.container_derecho2_0 p {
+  margin-top: 18px;
+  text-align: start;
+}
 .container_derecho3_0 {
   background-color: white;
   border: 2px solid #000;
@@ -120,6 +143,10 @@ body {
   margin: 40px auto;
   margin-left: 242px;
   margin-top: -42px;
+}
+.container_derecho3_0 p {
+  margin-top: 18px;
+  text-align: start;
 }
 /*Aqui empiezan los containers de la izquierda*/
 .container_izquierdo {
@@ -132,6 +159,11 @@ body {
   margin-top: 4px;
   background-color: rgb(187, 186, 185);
 }
+.container_izquierdo p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
+}
 
 .container_izquierdo1 {
   background-color: white;
@@ -142,6 +174,11 @@ body {
   margin-left: 12px;
   margin-top: -42px;
   background-color: rgb(187, 186, 185);
+}
+.container_izquierdo1 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
 }
 
 .container_izquierdo2 {
@@ -154,6 +191,11 @@ body {
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
+.container_izquierdo2 p {
+  margin-top: 60px;
+  text-align: start;
+  font-weight: bold;
+}
 
 .container_izquierdo3 {
   background-color: white;
@@ -164,6 +206,11 @@ body {
   margin-left: 12px;
   background-color: rgb(187, 186, 185);
   margin-top: -41px;
+}
+.container_izquierdo3 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
 }
 
 .container_izquierdo4 {
@@ -176,7 +223,11 @@ body {
   background-color: rgb(187, 186, 185);
   margin-top: -41px;
 }
-
+.container_izquierdo4 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
+}
 .container_izquierdo5 {
   background-color: white;
   border: 2px solid #000;
@@ -186,6 +237,11 @@ body {
   margin-left: 12px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
+}
+.container_izquierdo5 p {
+  margin-top: 10px;
+  text-align: start;
+  font-weight: bold;
 }
 
 .container_izquierdo6 {
@@ -198,7 +254,11 @@ body {
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
-
+.container_izquierdo6 p {
+  margin-top: 5px;
+  text-align: start;
+  font-weight: bold;
+}
 /*Aqui finalizan los containers de la izquierda*/
 
 /*Aqui empiezan los containers de la derecha*/
@@ -255,7 +315,7 @@ body {
   margin-top: -41px;
 }
 .container_derecho4 p {
-  margin-top: 10px;
+  margin-top: 0px;
   text-align: start;
 }
 
@@ -269,7 +329,7 @@ body {
   margin-top: -41px;
 }
 .container_derecho5 p {
-  margin-top: 10px;
+  margin-top: 15px;
   text-align: start;
 }
 
@@ -282,6 +342,10 @@ body {
   margin-left: 242px;
   margin-top: -42px;
 }
+.container_derecho6 p {
+  margin-top: 10px;
+  text-align: start;
+}
 
 .container_derecho7 {
   background-color: white;
@@ -292,6 +356,10 @@ body {
   margin-left: 242px;
   margin-top: -42px;
 }
+.container_derecho7 p {
+  margin-top: 0px;
+  text-align: start;
+}
 
 .container_derecho8 {
   background-color: white;
@@ -301,4 +369,8 @@ body {
   margin: 40px auto;
   margin-left: 242px;
   margin-top: -42px;
+}
+.container_derecho8 p {
+  margin-top: 36px;
+  text-align: start;
 }
