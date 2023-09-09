@@ -1,0 +1,133 @@
+/* Estilos generales del cuerpo de la página */
+body {
+    background-color: rgb(81, 80, 80);
+    padding         : 0;
+    margin          : 0;
+    /* Elimina márgenes predeterminados del cuerpo */
+    font-family     : Arial, sans-serif;
+    /* Cambia la fuente predeterminada */
+    font-size       : 13px;
+}
+
+/* Estilos del contenedor principal */
+.container {
+    height          : 1344px;
+    width           : 816px;
+    max-width       : 960px;
+    /* Limita el ancho máximo del contenedor */
+    margin          : 30px auto;
+    /* Centra el contenedor en la página y agrega margen superior e inferior */
+    background-color: #ffffff;
+    /* Fondo blanco para el contenedor */
+    padding         : 20px;
+    /* Agrega espacio interno al contenedor */
+    box-shadow      : 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Sombra suave */
+}
+
+/* Estilos para las tablas */
+/* Estilos para las tablas */
+table {
+    max-width      : 100%;
+    margin-bottom  : 20px;
+    border-collapse: collapse;
+    /* Combina los bordes de las celdas */
+    margin-right   : 30px;
+    margin-left    : 30px;
+}
+
+/* Estilos para las celdas del encabezado de la tabla */
+th {
+    background-color: #bebdbd;
+    color           : rgb(0, 0, 0);
+    text-align      : center;
+    font-weight     : bold;
+    border          : 1px solid #000;
+    padding         : 8px;
+}
+
+/* Estilos para las celdas de datos de la tabla */
+td {
+    text-align: left;
+    border    : 1px solid #000;
+    padding   : 8px;
+}
+
+/* Estilo para la clase "logo" */
+.logo img {
+    display: block;
+    margin : 0 auto;
+    /* Centra la imagen dentro de la celda */
+}
+
+/* Estilo para la clase "algo" */
+.algo {
+    max-width  : 680px;
+    max-height : 20px;
+    text-align : center;
+    font-weight: bold;
+    border     : 1px solid #000;
+    font-size  : 14px;
+    margin-top : 20px;
+    /* Agrega margen superior a elementos con la clase "algo" */
+}
+
+.nose {
+    width     : 250px;
+    text-align: center;
+}
+
+.igual {
+    background-color: #ffffff;
+    font-weight     : normal;
+}
+
+.pan {
+    margin-top: 150px;
+}
+
+.otra {
+    margin-top: 20px;
+    height    : 600px;
+}
+
+.boton {
+    border          : solid 5px gray;
+    height          : 100px;
+    width           : 100px;
+    font-size       : 50px;
+    background-color: gray;
+    font-style      : normal;
+    border-radius   : 10px;
+    color           : #000;
+}
+
+
+.riv {
+    font-size: 12.5px;
+}
+
+.heir {
+    margin-top: 150px;
+}
+
+.head {
+    margin-top: 150px;
+}
+.another {
+    width: 756px;
+    margin-top: 20px;
+    height    : 290px;
+}
+
+#maps{
+    min-width: 100%;
+}
+
+.label{
+width: 150px;
+height: 100px;
+font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 630px;
+}
