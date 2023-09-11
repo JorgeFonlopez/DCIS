@@ -18,13 +18,13 @@ body{
     overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
     margin-bottom: 20px;
     height: auto; /* Alto deseado en píxeles o porcentaje */
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     margin: 0 auto;
 }
 
 .container-encabezado p{
     text-align: center;
-    font-size: 14px; 
+    font-size: 13px; 
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 .img-encabezado {
@@ -42,7 +42,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text1{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: 22px;
@@ -51,7 +51,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text2{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -60,7 +60,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text3{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -69,7 +69,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text4{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -78,7 +78,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text5{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: 50px;
@@ -90,7 +90,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   border: 2px solid #000;
   width: 195px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -98,10 +98,10 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text7{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  width: 573px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 210px;
+  margin-left: 225px;
   margin-top: -54px;
 
 }
@@ -112,7 +112,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 195px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -120,10 +120,10 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text9{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  width: 573px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 210px;
+  margin-left: 225px;
   margin-top: -72px;
 
 }
@@ -134,7 +134,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 195px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -142,10 +142,10 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text11{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  width: 573px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 210px;
+  margin-left: 225px;
   margin-top: -72px;
 
 }
@@ -156,7 +156,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 564px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -164,17 +164,17 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text13{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 234px; /* Ancho deseado en píxeles o porcentaje */
+  width: 204px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 579px;
+  margin-left: 594px;
   margin-top: -72px;
 
 }
 .conatiener_desarrollo_text14{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -183,7 +183,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text15{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -192,7 +192,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text16{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -201,7 +201,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .conatiener_desarrollo_text17{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -211,7 +211,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido_1{
     /* background-color: white; */
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 55px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
     margin-top: -22px;
@@ -219,7 +219,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido_2{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 55px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: -22px;
@@ -227,7 +227,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido_3{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 170px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: -22px;
@@ -235,7 +235,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido_4{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: -22px;
@@ -446,7 +446,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 5px;
   margin-top: 15px;
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 .container-contenido_2 p{
   text-align: left;
@@ -457,7 +456,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 5px;
   margin-top: 19px;
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 .container-contenido_3 p{
   text-align: left;
@@ -468,7 +466,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 5px;
   margin-top: 10px;
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 .container-contenido_4 p{
   text-align: left;
@@ -479,7 +476,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 5px;
   margin-top: 10px;
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 
 

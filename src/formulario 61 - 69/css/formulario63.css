@@ -46,6 +46,39 @@ hasta aqui va el container de encabezado y comienza el de contenido
     height: 135px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
 }
+.container-contenido_2{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 255px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-top: -22px;
+}
+  .container-contenido_3{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 75px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-top: -22px;
+}
+  .container-contenido_4{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 90px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-top: -22px;
+}
+  .container-contenido_5{
+    /* background-color: white; */
+    border: 2px solid #000;
+    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    height: 50px; /* Alto deseado en píxeles o porcentaje */
+    margin: 20px auto;
+    margin-top: -22px;
+}
+
 
 .conatiener_desarrollo_text1{
   /* background-color: white; */
@@ -56,14 +89,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
-.container-contenido_2{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 255px; /* Alto deseado en píxeles o porcentaje */
-    margin: 20px auto;
-    margin-top: -22px;
-}
 .conatiener_desarrollo_text2{
     /* background-color: white; */
     border: 2px solid #000;
@@ -73,15 +98,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-top: -22px;
     background-color: rgb(187, 186, 185);
   }
-
-  .container-contenido_3{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 75px; /* Alto deseado en píxeles o porcentaje */
-    margin: 20px auto;
-    margin-top: -22px;
-}
 .conatiener_desarrollo_text3{
     /* background-color: white; */
     border: 2px solid #000;
@@ -91,7 +107,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-top: -22px;
     background-color: rgb(187, 186, 185);
   }
-
   .conatiener_desarrollo_text4{
     /* background-color: white; */
     border: 2px solid #000;
@@ -101,16 +116,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-top: -22px;
     background-color: rgb(187, 186, 185);
   }
-
-  .container-contenido_4{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 90px; /* Alto deseado en píxeles o porcentaje */
-    margin: 20px auto;
-    margin-top: -22px;
-}
-
 .conatiener_desarrollo_text5{
     /* background-color: white; */
     border: 2px solid #000;
@@ -121,14 +126,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
     background-color: rgb(187, 186, 185);
   }
 
-  .container-contenido_5{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 50px; /* Alto deseado en píxeles o porcentaje */
-    margin: 20px auto;
-    margin-top: -22px;
-}
+
 
 
 
@@ -142,8 +140,49 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-left: 5px;
     margin-top: 9px;
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
 }
+
+.container-contenido_2 p{
+    text-align: left;
+    height: 9px;
+    font-size: 13px;
+    color: black;
+
+    margin-left: 5px;
+    margin-top: 9px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+}
+.container-contenido_3 p{
+    text-align: left;
+    height: 5px;
+    font-size: 13px;
+    color: black;
+
+    margin-left: 5px;
+    margin-top: 9px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+}
+.container-contenido_4 p{
+    text-align: left;
+    height: 9px;
+    font-size: 13px;
+    color: black;
+    
+    margin-left: 5px;
+    margin-top: 7px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+}
+.container-contenido_5 p{
+    text-align: left;
+    height: 9px;
+    font-size: 13px;
+    color: black;
+
+    margin-left: 10px;
+    margin-top: 17px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+}
+
 
 .conatiener_desarrollo_text1 p{
     text-align: center;
@@ -156,19 +195,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     width: 100%;
     margin-top: 5px;
 }
-
-.container-contenido_2 p{
-    text-align: left;
-    height: 9px;
-    font-size: 13px;
-    color: black;
-
-    margin-left: 5px;
-    margin-top: 9px;
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-}
-
 .conatiener_desarrollo_text2 p{
     text-align: center;
     height: 5px;
@@ -180,19 +206,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     width: 100%;
     margin-top: 5px;
 }
-
-.container-contenido_3 p{
-    text-align: left;
-    height: 5px;
-    font-size: 13px;
-    color: black;
-
-    margin-left: 5px;
-    margin-top: 9px;
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-}
-
 .conatiener_desarrollo_text3 p{
     text-align: center;
     height: 5px;
@@ -217,19 +230,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-top: 7px;
     margin-left: 5px;
 }
-
-.container-contenido_4 p{
-    text-align: left;
-    height: 9px;
-    font-size: 13px;
-    color: black;
-    
-    margin-left: 5px;
-    margin-top: 7px;
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-}
-
 .conatiener_desarrollo_text5 p{
     text-align: left;
     height: 5px;
@@ -243,17 +243,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-left: 5px;
 }
 
-.container-contenido_5 p{
-    text-align: left;
-    height: 9px;
-    font-size: 13px;
-    color: black;
 
-    margin-left: 10px;
-    margin-top: 17px;
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
-}
 
 /* Estilos responsivos */
 @media (max-width: 768px) {

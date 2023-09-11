@@ -18,7 +18,7 @@ body{
     overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
     margin-bottom: 20px;
     height: auto; /* Alto deseado en píxeles o porcentaje */
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     margin: 0 auto;
 }
 
@@ -42,14 +42,14 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido_1{
     /* background-color: white; */
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 215px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
 }
 .container-contenido_2{
 /* background-color: white; */
 border: 2px solid #000;
-width: 800px; /* Ancho deseado en píxeles o porcentaje */
+width: 770px; /* Ancho deseado en píxeles o porcentaje */
 height: 390px; /* Alto deseado en píxeles o porcentaje */
 margin: 20px auto;
 margin-top: -22px;
@@ -57,7 +57,7 @@ margin-top: -22px;
 .container-contenido_3{
     /* background-color: white; */
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 230px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
     margin-top: -22px;
@@ -66,7 +66,7 @@ margin-top: -22px;
 .conatiener_desarrollo_text1{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -75,7 +75,7 @@ margin-top: -22px;
 .conatiener_desarrollo_text2{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /*Ancho deseado en píxeles o porcentaje*/
+  width: 770px; /*Ancho deseado en píxeles o porcentaje*/
   height: 30px; /*Alto deseado en píxeles o porcentaje*/
   margin: 20px auto;
   margin-top: -22px;
@@ -94,18 +94,6 @@ margin-top: -22px;
   margin-top: 10px;
   margin-left: 5px;
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  width: 100%;
-  margin-top: 5px;
-}
-
-.conatiener_desarrollo_text1 p{
-  text-align: center;
-  height: 5px;
-  font-size: 15px;
-  color: rgb(0, 0, 0);
-  
-  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  font-weight: bold; /* Grosor de la fuente (negrita) */
   width: 100%;
   margin-top: 5px;
 }
@@ -133,6 +121,19 @@ margin-top: -22px;
   width: 100%;
   margin-top: 5px;
 }
+
+.conatiener_desarrollo_text1 p{
+  text-align: center;
+  height: 5px;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  width: 100%;
+  margin-top: 5px;
+}
+
 .conatiener_desarrollo_text2 p{
     text-align: center;
     height: 5px;
