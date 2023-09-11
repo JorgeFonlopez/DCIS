@@ -1,0 +1,212 @@
+:root {
+    --display-flex: flex;
+    --flex-direction: column;
+    --centrado: center;
+    --border: 1px solid #000;
+    --background-color: #D3D3D3; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------------- CARRUSEL ------------------------- */
+
+.all-Curriculos{
+    position: relative;
+    overflow: hidden;
+}
+
+.contenedorSection {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.pagina {
+    flex: 1;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.pagina::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("../img/Logo-de-SENA-png-verde.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    opacity: 0.1;
+    z-index: -1;
+}
+
+#prevBtn, 
+#nextBtn,
+.boton {
+    display: block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+    transition: all 1s ease;
+}
+
+#prevBtn:hover, 
+#nextBtn:hover,
+.boton:hover {
+    color: white;
+    background-color: #C0C0C0;
+    transform: translateY(-10px);
+}
+
+/* Sectiones */
+.otrosContainer {
+    border:var(--border);
+    margin: 20px 0px 10px 0px;
+}
+
+.container-border {
+    border: 2px solid #000;
+    margin-top: 20px;
+}
+
+.final {
+    margin-bottom: 0px;
+}
+
+.col {
+    padding: 5px 0px;
+    border:var(--border)
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+}
+
+.encabezado div:first-child{
+    text-align: center;
+    width: 10%;
+    border-right: var(--border);
+}
+
+.encabezado div:first-child img{
+    width: 7.5rem;
+}
+
+.encabezado div:last-child{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px 0px;
+    border-left: var(--border);
+}
+
+.subtitulo {
+    font-weight: bold;
+    background-color: #DCDCDC;
+}
+
+.subtitulo-central {
+    text-align: center;
+}
+
+.containerBtn {
+    border: none;
+}
+
+.contenedorBtn div:first-child{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    margin-right: 10px;
+    padding: 0;
+}
+
+.contenedorBtn div:last-child {
+    display: flex;
+    align-items: end;
+    text-align: end;
+    margin-left: 10px;
+    justify-content:space-between;
+    padding: 0;
+    border: none;
+}
+
+.fechaAndPaginado div:last-child{
+    border: none;
+    display: flex;
+    justify-content: end;
+}
+
+
+/* Encabezado */
+.encabezado_curricular {
+    display: var(--display-flex);
+    border: none;
+    text-align: var(--centrado);
+}
+
+.encabezado_curricular .img_encabezado{
+    display: flex;
+    justify-content: center;
+    border-right: 2px solid #000;
+    align-items: center;
+}
+
+.encabezado_curricular .img_encabezado img{
+    width: 7rem;
+}
+
+.encabezado_curricular .titulos_encabezado {
+    border: none;
+    display: var(--display-flex);
+    flex-direction: var(--flex-direction);
+    justify-content: space-around;
+    padding: 0px 10px;
+    width: 100%;
+}
+
+.encabezado_curricular .titulos_encabezado h3 {
+    font-size: 15px;
+}
+
+/* Impresion */
+@media print {
+    .all-Curriculos{
+        position: relative;
+        overflow:visible;
+        width: 100%;
+    }
+    
+    .contenedorSection {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .pagina {
+        page-break-before: always;
+        width: 100%;
+    }
+
+    #prevBtn, 
+    #nextBtn,
+    .boton{
+        display: none;
+    }
+
+}
