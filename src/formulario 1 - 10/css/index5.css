@@ -651,6 +651,15 @@ hasta aqui va el container de encabezado y comienza el de contenido
     margin-left: 82%;
     width: 14%;
 }
+.btn-successs {
+  color: #fff;
+  background-color: #28a745; /* Verde de Bootstrap */
+  border-color: #28a745; /* Verde de Bootstrap */
+  margin-top: -6%;
+  margin-left: 46%;
+  width: 14%;
+}
+
 
 
 /* aqui termina el la modificaion del tex dentro del container */
