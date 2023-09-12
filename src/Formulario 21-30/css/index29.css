@@ -14,15 +14,19 @@ body {
   box-sizing: border-box;
   height: 1300px;
 }
+.container-alfa2{
+  width: 785px;
+  margin-left: 20px;
+}
 
 .container-encabezado {
   border: 1px solid #000;
   overflow: auto;
   margin-bottom: 21px;
   height: auto;
-  width: px;
+  width: 770px;
   margin-top: 150px;
-  margin-left: 12px;
+  margin-left: 32px;
 }
 
 .container-encabezado p {
@@ -167,7 +171,7 @@ body {
 .container_infogra2 {
   border: 1px solid #000;
   width: 770px;
-  height: 505px;
+  height: 530px;
   margin: -6px auto;
   margin-left: 12px;
   margin-top: 5px;
