@@ -145,6 +145,11 @@ tr:first-child {
     background-color: rgb(187, 186, 185);
     color: rgb(0, 0, 0);
 }
+
+.col6{
+  margin-top: 117%;
+  margin-left: 84%;
+}
   /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {

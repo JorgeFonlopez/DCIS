@@ -615,6 +615,11 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-left: 11px;
   margin-top:12px;
 }
+
+.col5{
+  margin-top: 92%;
+  margin-left: 84%;
+}
 /* aqui termina el la modificaion del tex dentro del container */
 /* Estilos responsivos */
 @media (max-width: 768px) {

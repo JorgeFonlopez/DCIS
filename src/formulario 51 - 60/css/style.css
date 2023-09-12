@@ -1,0 +1,199 @@
+.body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 20%;
+}
+.column{
+    width: 770px;
+    border: solid 2px black;
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.column1{
+    width: 770px;
+    border: solid 2px black;
+    display: flex;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.column2{
+    width: 770px;
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 700;
+}
+.column3{
+    width: 770px;
+    background-color: rgb(151, 151, 151);
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 800;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.img{
+    width: 150px !important;
+    height: 150px;
+    border-right: solid 2px black;
+}
+
+.text{
+    margin-top: 10px !important;
+    font-size: 15px;
+    width: 650px;
+    text-align: center;
+    justify-content: center;
+    text-justify: distribute;
+    align-items: center;
+    font-weight: 650;
+}
+
+.table{
+    padding: 50px;
+}
+
+.boton{
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.column4{
+    width: 770px;
+    background-color: rgb(151, 151, 151);
+    border-top: solid 2px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 800;
+    justify-content: center;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.column5{
+    background-color: rgb(151, 151, 151);
+    border-right: solid 2px black;
+    width: 150px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column6{
+    width: 770px;
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.texto{
+    display: flex;
+    align-items: center;
+}
+
+.column7{
+    width: 770px;
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.texto1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+}
+
+.column8{
+    background-color: rgb(151, 151, 151);
+    border-right: solid 2px black;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column9{
+    width: 770px;
+    background-color: rgb(151, 151, 151);
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 800;
+    justify-content: left;
+    font-family: sans-serif;
+}
+
+.column10{
+    width: 770px;
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.column11{
+    height: 30px;
+    border-bottom: solid 2px black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.column12{
+    height: 30px;
+    border-bottom: solid 0px black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.column13{
+    width: 770px;
+    background-color: rgb(151, 151, 151);
+    border-top: solid 0px black;
+    border-right: solid 2px black;
+    border-left: solid 2px black;
+    border-bottom: solid 2px black;
+    display: flex;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 800;
+    justify-content: left;
+    font-family: sans-serif;
+}
