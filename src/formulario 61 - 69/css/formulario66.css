@@ -31,7 +31,7 @@ body{
     overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
     margin-bottom: 20px;
     height: auto; /* Alto deseado en píxeles o porcentaje */
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     margin: 0 auto;
 }
 
@@ -52,33 +52,33 @@ body{
 /* aqui termina todo lo del encabezado  */
 .container-contenido{
   border: 2px solid #000;
-  width: 800px;
+  width: 770px;
   height: auto;
   margin: 20px auto;
 }
 .container-contenido2{
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  margin: -20px auto;
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
+  margin: -22px auto;
 }
 .container-contenido3{
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  margin: -20px auto;
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
+  margin: -22px auto;
 }
 .conatiener_desarrollo_text{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text1{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: 20px;

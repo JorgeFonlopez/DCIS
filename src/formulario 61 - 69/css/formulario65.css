@@ -19,7 +19,7 @@ body{
     overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
     margin-bottom: 20px;
     height: auto; /* Alto deseado en píxeles o porcentaje */
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     margin: 0 auto;
 }
 
@@ -42,7 +42,7 @@ body{
 .conatiener_desarrollo_text1{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: -20px;
@@ -51,86 +51,86 @@ body{
 .conatiener_desarrollo_text2{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  height: 52px; /* Alto deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 
 .conatiener_desarrollo_text3{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text4{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text5{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 52px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text6{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text7{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 52px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 
 .conatiener_desarrollo_text8{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text9{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
-  height: 52px; /* Alto deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 
 .conatiener_desarrollo_text10{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: 2px; */
@@ -141,10 +141,10 @@ body{
 .conatiener_desarrollo_text11{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  width: 195px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -152,10 +152,10 @@ body{
 .conatiener_desarrollo_text12{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  width: 573px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 210px;
+  margin-left: 225px;
   margin-top: -72px;
 
 }
@@ -163,10 +163,10 @@ body{
 .conatiener_desarrollo_text13{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 194px; /* Ancho deseado en píxeles o porcentaje */
-  height: 55px; /* Alto deseado en píxeles o porcentaje */
+  width: 195px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -174,21 +174,21 @@ body{
 .conatiener_desarrollo_text14{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 603px; /* Ancho deseado en píxeles o porcentaje */
-  height: 55px; /* Alto deseado en píxeles o porcentaje */
+  width: 573px; /* Ancho deseado en píxeles o porcentaje */
+  height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 210px;
-  margin-top: -76px;
+  margin-left: 225px;
+  margin-top: -72px;
 
 }
 
 .conatiener_desarrollo_text15{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 194px; /* Ancho deseado en píxeles o porcentaje */
+  width: 195px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -196,10 +196,10 @@ body{
 .conatiener_desarrollo_text16{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 603px; /* Ancho deseado en píxeles o porcentaje */
+  width: 573px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 210px;
+  margin-left: 225px;
   margin-top: -72px;
 
 }
@@ -210,7 +210,7 @@ body{
   width: 564px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 18px auto;
-  margin-left: 13px;
+  margin-left: 28px;
   margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
@@ -218,10 +218,10 @@ body{
 .conatiener_desarrollo_text18{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 233px; /* Ancho deseado en píxeles o porcentaje */
+  width: 204px; /* Ancho deseado en píxeles o porcentaje */
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-left: 580px;
+  margin-left: 594px;
   margin-top: -72px;
 
 }
@@ -229,25 +229,25 @@ body{
 .conatiener_desarrollo_text19{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text20{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text21{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 4%; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
@@ -257,49 +257,49 @@ body{
 .conatiener_desarrollo_text22{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 4%; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text23{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 4%; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text24{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 4%; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text25{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text26{
   /* background-color: white; */
   border: 2px solid #000;
-  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .btn {
