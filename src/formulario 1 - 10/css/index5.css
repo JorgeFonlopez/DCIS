@@ -620,6 +620,39 @@ hasta aqui va el container de encabezado y comienza el de contenido
   margin-top: 92%;
   margin-left: 84%;
 }
+
+.btn {
+  display: inline-block;
+  padding: -0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+/* Estilo para el botón de éxito (verde) */
+.btn-primary {
+  color: #fff;
+  background-color: #28a745; /* Verde de Bootstrap */
+  border-color: #28a745; /* Verde de Bootstrap */
+  margin-top: 5%;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745; /* Verde de Bootstrap */
+    border-color: #28a745; /* Verde de Bootstrap */
+    margin-top: 2%;
+    margin-left: 82%;
+    width: 14%;
+}
+
+
 /* aqui termina el la modificaion del tex dentro del container */
 /* Estilos responsivos */
 @media (max-width: 768px) {

@@ -157,6 +157,45 @@ tr:first-child {
   margin-top: 128%;
   margin-left: 84%;
 }
+.btn {
+  display: inline-block;
+  padding: -0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #28a745; /* Verde de Bootstrap */
+  border-color: #28a745; /* Verde de Bootstrap */
+  margin-top: 5%;
+}
+.btn-success4 {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  margin-top: 1%;
+  margin-left: 83%;
+  width: 14%;
+}
+
+.btn-success5 {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  margin-top: -6%;
+  margin-left: 46%;
+  width: 14%;
+}
+
   /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {
