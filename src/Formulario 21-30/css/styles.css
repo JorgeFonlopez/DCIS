@@ -93,7 +93,7 @@ td {
 
 .boton {
     border          : solid 5px gray;
-    height          : 100px;
+    height          : 50px;
     width           : 100px;
     font-size       : 50px;
     background-color: gray;
@@ -126,8 +126,17 @@ td {
 
 .label{
 width: 150px;
-height: 100px;
+height: 50px;
 font-size: 14px;
 font-family: Arial, Helvetica, sans-serif;
 margin-left: 630px;
+margin-top: -32px;
+}
+
+.fecha{
+width: 150px;
+height: 10px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 15px;
+font-weight: normal;
 }
