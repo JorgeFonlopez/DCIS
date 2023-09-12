@@ -1,6 +1,18 @@
 body{
     background-color: rgb(64, 64, 64);
     margin: 0; /* Elimina el margen predeterminado del body */
+    padding: 0;
+}
+.container-alfa {
+    background: linear-gradient(
+      rgba(255,255,255,0.5)
+      rgba(255,255,255,0.5)
+      ) url('../imagen/logo_sena.png'); /* Reemplaza 'ruta-de-tu-imagen-de-marca-de-agua.png' con la ruta de tu imagen de marca de agua */
+    /*background-repeat: repeat; /* Repite la imagen en todo el fondo */
+    /*opacity: 0.5; /* Cambia la opacidad para ajustar la transparencia de la marca de agua */
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 .container-alfa {

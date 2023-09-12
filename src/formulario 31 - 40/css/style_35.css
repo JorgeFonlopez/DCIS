@@ -1,0 +1,198 @@
+body {
+    background-color: rgb(108, 108, 108);
+    margin: 0;
+}
+
+.container-alfa {
+    background-color: #ffffff;
+    margin: 20px auto;
+    /* Centra el contenedor horizontalmente con margen */
+    max-width: 850px;
+    /* Ancho máximo del contenedor */
+    padding: 20px 10px;
+    /* Añade espacio interno al contenedor */
+    text-align: center;
+    /* Centra el contenido horizontalmente */
+    box-sizing: border-box;
+    /* Incluye el padding en el ancho total del contenedor */
+    height: 1300px;
+
+}
+
+
+.container-encabezado {
+    border: 2px solid #000;
+    overflow: auto;
+    /* Evita problemas de diseño si el contenido es más alto que la imagen */
+    margin-bottom: 20px;
+    height: 107px;
+    /* Alto deseado en píxeles o porcentaje */
+    width: 770px;
+    /* Ancho deseado en píxeles o porcentaje */
+    margin: 0 auto;
+    position: relative;
+    top: 105px;
+    
+}
+
+.container-encabezado p {
+    text-align: center;
+    height: 14px;
+    /* width: 730px; */
+    /* Ancho deseado en píxeles o porcentaje */
+    font-size: 13px;
+    font-weight: bold;
+    /* Grosor de la fuente (negrita) */
+
+    
+}
+
+.img-encabezado {
+    border-right: 2px solid black;
+    float: left;
+    margin-right: 10px;
+    max-width: 100%;
+    /* Ajusta el ancho máximo de la imagen al 100% */
+    height: 107px;
+}
+
+
+/* 
+este es otro continer -------------
+*/
+.container-contenido-1 {
+    border: 2px solid #000;
+    width: 770px;
+    /* Ancho deseado en píxeles o porcentaje */
+    height: auto;
+    /* Alto deseado en píxeles o porcentaje (930)*/
+    margin: 20px auto;
+    position: relative;
+    top: 100px;
+
+}
+
+.container-contenido-1 p{
+    text-align: start;
+    /* height: 5px; */
+    font-size: 13px;
+    color: rgb(56, 56, 56);
+
+    font-family: Arial, sans-serif;
+    /* Tipo de letra (fuente) */
+    font-weight: bold;
+    /* Grosor de la fuente (negrita)*/
+
+}
+/* 
+este es otro container
+ */
+.container-titulo-criterios {
+    background-color: rgb(173, 172, 172);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 770px;
+    height: 25px;
+
+}
+.container-titulo-criterios h3 {
+    text-align: center;
+    position: relative;
+    top: 3px;
+    height: 10px;
+    font-size: 15px;
+    color: black;
+    margin-top: 0;
+    /* aqui es donde comiensa el color del container */
+
+    font-family: Arial, sans-serif;
+    /* Tipo de letra (fuente) */
+    font-weight: bold;
+    /* Grosor de la fuente (negrita) */
+}
+/* 
+el container de perfil
+ */
+ .container-titulo-perfil {
+    background-color: rgb(173, 172, 172);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 770px;
+    height: 25px;
+
+}
+.container-titulo-perfil h3 {
+    text-align: center;
+    position: relative;
+    top: 3px;
+    height: 10px;
+    font-size: 15px;
+    color: black;
+    margin-top: 0;
+    /* aqui es donde comiensa el color del container */
+
+    font-family: Arial, sans-serif;
+    /* Tipo de letra (fuente) */
+    font-weight: bold;
+    /* Grosor de la fuente (negrita) */
+}
+/* 
+el container de perfil
+ */
+ .container-titulo-requisitos {
+    background-color: rgb(173, 172, 172);
+    border-bottom: 2px solid black;
+    width: 770px;
+    height: 25px;
+
+}
+.container-titulo-requisitos h3 {
+    text-align: start;
+    position: relative;
+    top: 3px;
+    height: 10px;
+    font-size: 15px;
+    color: black;
+    margin-top: 0;
+    /* aqui es donde comiensa el color del container */
+
+    font-family: Arial, sans-serif;
+    /* Tipo de letra (fuente) */
+    font-weight: bold;
+    /* Grosor de la fuente (negrita) */
+}
+/* 
+el container de experiencia
+ */
+ .container-titulo-experiencia {
+    background-color: rgb(173, 172, 172);
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    width: 770px;
+    height: 25px;
+
+}
+.container-titulo-experiencia h3 {
+    text-align: start;
+    position: relative;
+    top: 3px;
+    height: 10px;
+    font-size: 15px;
+    color: black;
+    margin-top: 0;
+    /* aqui es donde comiensa el color del container */
+
+    font-family: Arial, sans-serif;
+    /* Tipo de letra (fuente) */
+    font-weight: bold;
+    /* Grosor de la fuente (negrita) */
+}
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    .container-alfa {
+      padding: 10px; /* Reduce el espacio interno en dispositivos más pequeños */
+    } 
+    .container-contenido p {
+      font-size: 12px; /* Reduce el tamaño de fuente en dispositivos más pequeños */
+    }
+  }
