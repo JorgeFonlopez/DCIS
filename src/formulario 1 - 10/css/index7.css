@@ -152,6 +152,11 @@ tr:first-child {
    
 
 }
+
+.col7{
+  margin-top: 128%;
+  margin-left: 84%;
+}
   /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {
