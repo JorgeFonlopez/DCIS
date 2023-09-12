@@ -1,0 +1,215 @@
+body {
+  background-color: rgb(64, 64, 64);
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container-alfa {
+  background-color: #ffffff;
+  margin: 20px auto;
+  max-width: 850px;
+  padding: 20px 10px;
+  text-align: center;
+  box-sizing: border-box;
+  height: 1300px;
+}
+.container-alfa2 {
+  width: 785px;
+  margin-left: 21px;
+}
+.container-encabezado {
+  border: 1px solid #000;
+  overflow: auto;
+  margin-bottom: 21px;
+  height: auto;
+  width: 770px;
+  margin-top: 150px;
+  margin-left: 32px;
+}
+.container-encabezado p {
+  height: 20px;
+  font-size: 14px;
+  margin-top: 2px;
+}
+.img-encabezado {
+  border-right: 1px solid black;
+  float: left;
+  margin-right: 8px;
+  max-width: 27%;
+  width: 115px;
+  height: 104px;
+}
+.container_infogra1 {
+  background-color: white;
+  border: 1px solid #000;
+  width: 770px;
+  height: 258px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 6px;
+}
+
+.container_infogra1 p {
+  font-size: 14px;
+  margin-top: 0px;
+  text-align: start;
+}
+
+.container_info1 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 25px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 6px;
+  background-color: rgb(187, 186, 185);
+}
+
+.container_info1 p {
+  margin-top: 4px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+}
+
+.container_info2 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 25px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 5px;
+  background-color: rgb(187, 186, 185);
+}
+
+.container_info2 p {
+  margin-top: 4px;
+  font-weight: bold;
+  text-align: start;
+  font-size: 15.5px;
+}
+
+.container_info3 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 50px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 6px;
+}
+
+.container_info3 p {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 15px;
+}
+.container_info4 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 25px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 5px;
+  background-color: rgb(187, 186, 185);
+}
+
+.container_info4 p {
+  margin-top: 4px;
+  font-weight: bold;
+  text-align: start;
+  font-size: 15.5px;
+}
+
+.container_info5 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 52px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 6px;
+}
+
+.container_info5 p {
+  margin-top: 1px;
+  text-align: start;
+  font-size: 14px;
+}
+
+.container_info6 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 25px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 5px;
+  background-color: rgb(187, 186, 185);
+}
+
+.container_info6 p {
+  margin-top: 4px;
+  font-weight: bold;
+  text-align: start;
+  font-size: 15.5px;
+}
+
+.container_info7 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 165px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 6px;
+}
+
+.container_info7 p {
+  margin-top: 1px;
+  text-align: start;
+  font-size: 14px;
+}
+
+.container_info8 {
+  border: 1px solid #000;
+  width: 770px;
+  height: 25px;
+  margin: -6px auto;
+  margin-left: 12px;
+  margin-top: 50px;
+  background-color: rgb(187, 186, 185);
+}
+
+.container_info8 p {
+  margin-top: 4px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15.5px;
+}
+.container-tabla {
+  border: 2px solid #ffffff;
+  width: 772px; /* Ancho deseado en píxeles o porcentaje */
+  height: 34px; /* Alto deseado en píxeles o porcentaje */
+  margin: 20px auto;
+  margin-left: 11px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: -19px;
+  margin-left: -1px;
+}
+
+th,
+td {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+  margin-top: -100px;
+}
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+tr:first-child {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
