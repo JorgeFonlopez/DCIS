@@ -102,7 +102,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-left: 225px;
-  margin-top: -54px;
+  margin-top: -53px;
 
 }
 
@@ -146,7 +146,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   height: 50px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-left: 225px;
-  margin-top: -72px;
+  margin-top: -71px;
 
 }
 
@@ -228,9 +228,9 @@ hasta aqui va el container de encabezado y comienza el de contenido
   /* background-color: white; */
   border: 2px solid #000;
   width: 770px; /* Ancho deseado en píxeles o porcentaje */
-  height: 170px; /* Alto deseado en píxeles o porcentaje */
+  height: 174px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -22px;
+  margin-top: -21px;
 }
 .container-contenido_4{
   /* background-color: white; */
