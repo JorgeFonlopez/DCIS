@@ -4,42 +4,45 @@ body{
 }
 
 .container-alfa {
-    background-color: #ffffff;
-    margin: 20px auto; /* Centra el contenedor horizontalmente con margen */
-    max-width: 850px; /* Ancho máximo del contenedor */
-    padding: 20px 10px; /* Añade espacio interno al contenedor */
-    text-align: center; /* Centra el contenido horizontalmente */
-    box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */  
-    height: 1300px;
+  background-color: #ffffff;
+  margin: 20px auto; /* Centra el contenedor horizontalmente con margen */
+  max-width: 850px; /* Ancho máximo del contenedor */
+  padding: 20px 10px; /* Añade espacio interno al contenedor */
+  text-align: center; /* Centra el contenido horizontalmente */
+  box-sizing: border-box; /* Incluye el padding en el ancho total del contenedor */  
+  height: 1200px;
 }
 
-  
+
 .container-encabezado{
-    border: 2px solid #000;
-    overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
-    margin-bottom: 20px;
-    height: auto; /* Alto deseado en píxeles o porcentaje */
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    margin: 0 auto;
+  border: 2px solid #000;
+  overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
+  margin-bottom: 20px;
+  height: auto; /* Alto deseado en píxeles o porcentaje */
+  width: 800px; /* Ancho deseado en píxeles o porcentaje */
+  margin: 0 auto;
 }
 
 .container-encabezado p{
-    text-align: center;
-    font-size: 14px; 
-    font-weight: bold; /* Grosor de la fuente (negrita) */
+  text-align: center;
+  font-size: 11px; 
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+  font-family: Arial, Helvetica, sans-serif;
 }
 .img-encabezado {
-    border-right: 2px solid black;
-    float: left;
-    margin-right: 10px;
-    max-width: 100%; /* Ajusta el ancho máximo de la imagen al 100% */
-    height: auto;
-  }
+  border-right: 2px solid black;
+  float: left;
+  margin-right: 10px;
+  max-width: 100%; /* Ajusta el ancho máximo de la imagen al 100% */
+  height: auto;
+  width: 96px;
+}
+
 
 /* aqui termina todo lo del encabezado  */
 
 .container-contenido2{
-    border: 2px solid #000;
+    border: 2px solid #00000000;
     width: 800px; /* Ancho deseado en píxeles o porcentaje */
     height: 34px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
@@ -47,34 +50,34 @@ body{
 
 .conatiener_apecto1{
     /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 34px; /* Alto deseado en píxeles o porcentaje */
+    border: 1px solid #000;
+    width: 800px;
+    height: 35px;
     margin: 20px auto;
-    margin-left: -1px;
-    margin-top: -1px;
+    margin-left: -2px;
+    margin-top: 10px;
     background-color: rgb(187, 186, 185);
   
   }
 
   .conatiener_apecto2{
     /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 40px; /* Alto deseado en píxeles o porcentaje */
+    border: 1px solid #000;
+    width: 800px;
+    height: 40px;
     margin: 20px auto;
-    margin-left: -1px;
-    margin-top: -22px;
+    margin-left: -2px;
+    margin-top: -21px;
   
   }
 
   .conatiener_apecto3{
     /* background-color: white; */
-    border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
-    height: 30px; /* Alto deseado en píxeles o porcentaje */
+    border: 1px solid #000;
+    width: 799px;
+    height: 30px;
     margin: 20px auto;
-    margin-left: -1px;
+    margin-left: 0px;
     margin-top: 40px;
     background-color: rgb(187, 186, 185);
   }
