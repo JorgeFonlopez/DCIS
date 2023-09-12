@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
 }
+
 .container-alfa {
   background-color: #ffffff;
   margin: 20px auto;
@@ -12,10 +13,12 @@ body {
   box-sizing: border-box;
   height: 1300px;
 }
+
 .container-alfa2 {
   width: 785px;
   margin-left: 21px;
 }
+
 .container-encabezado {
   border: 1px solid #000;
   overflow: auto;
@@ -25,11 +28,13 @@ body {
   margin-top: 150px;
   margin-left: 32px;
 }
+
 .container-encabezado p {
   height: 20px;
   font-size: 14px;
   margin-top: 2px;
 }
+
 .img-encabezado {
   border-right: 1px solid black;
   float: left;
@@ -38,6 +43,7 @@ body {
   width: 115px;
   height: 104px;
 }
+
 .container_info1 {
   border: 1px solid #000;
   width: 770px;
@@ -54,6 +60,7 @@ body {
   text-align: start;
   font-size: 15px;
 }
+
 .container_info2 {
   border: 1px solid #000;
   width: 770px;
@@ -69,6 +76,7 @@ body {
   text-align: start;
   font-size: 15px;
 }
+
 .container_info3 {
   width: 770px;
   height: 30px;
@@ -86,8 +94,10 @@ body {
 
 .container-tabla {
   border: 2px solid #ffffff;
-  width: 772px; /* Ancho deseado en píxeles o porcentaje */
-  height: 34px; /* Alto deseado en píxeles o porcentaje */
+  width: 772px;
+  /* Ancho deseado en píxeles o porcentaje */
+  height: 34px;
+  /* Alto deseado en píxeles o porcentaje */
   margin: 35px auto;
   margin-left: 11px;
 }
@@ -111,4 +121,40 @@ tr:first-child {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-weight: bold;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+/* Estilo para el botón de éxito (verde) */
+.btn-primary {
+  color: #fff;
+  background-color: #28a745;
+  /* Verde de Bootstrap */
+  border-color: #28a745;
+  /* Verde de Bootstrap */
+  margin-top: 70%;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  /* Verde de Bootstrap */
+  border-color: #28a745;
+  /* Verde de Bootstrap */
+  margin-top: 70%;
+  margin-left: 65%;
+  width: 14%;
 }

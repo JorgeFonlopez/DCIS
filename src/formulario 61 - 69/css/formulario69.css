@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
 }
+
 .container-alfa {
   background-color: #ffffff;
   margin: 20px auto;
@@ -12,11 +13,13 @@ body {
   box-sizing: border-box;
   height: 1300px;
 }
+
 .container-alfa2 {
   width: 785px;
   margin-left: 21px;
   margin-top: 60px;
 }
+
 .container-encabezado {
   border: 1px solid #000;
   overflow: auto;
@@ -26,11 +29,13 @@ body {
   margin-top: 150px;
   margin-left: 32px;
 }
+
 .container-encabezado p {
   height: 20px;
   font-size: 14px;
   margin-top: 2px;
 }
+
 .img-encabezado {
   border-right: 1px solid black;
   float: left;
@@ -42,10 +47,22 @@ body {
 
 .container-tabla {
   border: 2px solid #ffffff;
-  width: 772px; /* Ancho deseado en píxeles o porcentaje */
-  height: 34px; /* Alto deseado en píxeles o porcentaje */
+  width: 772px;
+  /* Ancho deseado en píxeles o porcentaje */
+  height: 34px;
+  /* Alto deseado en píxeles o porcentaje */
   margin: 35px auto;
   margin-left: 11px;
+}
+
+.container-tabla1 {
+  border: 2px solid #ffffff;
+  width: 772px;
+  /* Ancho deseado en píxeles o porcentaje */
+  height: 34px;
+  /* Alto deseado en píxeles o porcentaje */
+  margin: 35px auto;
+  margin-left: -1px;
 }
 
 table {
@@ -82,4 +99,35 @@ tr:first-child {
   font-weight: bold;
   text-align: center;
   font-size: 16px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+/* Estilo para el botón de éxito (verde) */
+.btn-primary {
+  color: #fff;
+  background-color: #28a745; /* Verde de Bootstrap */
+  border-color: #28a745; /* Verde de Bootstrap */
+  margin-top: 70%;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745; /* Verde de Bootstrap */
+    border-color: #28a745; /* Verde de Bootstrap */
+    margin-top: 70%;
+    margin-left: 65%;
+    width: 14%;
 }
