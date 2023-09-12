@@ -251,7 +251,7 @@ body{
   height: 4%; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text22{
@@ -577,49 +577,47 @@ body{
     
   }
   .conatiener_desarrollo_text21 p{
-    text-align: center;
+    text-align: left;
     height: 5px;
     font-size: 15px;
     color: rgb(0, 0, 0);
   
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
     width: 100%;
-    margin-top: 3px;
+    margin-top: 6px;
+    margin-left: 5px;
     
   }
   .conatiener_desarrollo_text22 p{
-    text-align: center;
+    text-align: left;
     height: 5px;
     font-size: 15px;
     color: rgb(0, 0, 0);
   
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
     width: 100%;
-    margin-top: 3px;
+    margin-top: 15px;
+    margin-left: 5px;
     
   }
   .conatiener_desarrollo_text23 p{
-    text-align: center;
+    text-align: left;
     height: 5px;
     font-size: 15px;
     color: rgb(0, 0, 0);
   
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
     width: 100%;
     margin-top: 3px;
     
   }
   .conatiener_desarrollo_text24 p{
-    text-align: center;
+    text-align: left;
     height: 5px;
     font-size: 15px;
     color: rgb(0, 0, 0);
   
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
     width: 100%;
     margin-top: 3px;
     

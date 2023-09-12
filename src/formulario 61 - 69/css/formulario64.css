@@ -44,7 +44,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido{
     border: 2px solid #000;
     width: 770px; /* Ancho deseado en píxeles o porcentaje */
-    margin: 20px auto;
+    margin: 18px auto;
 }
 
 .conatiener_desarrollo_text{
@@ -162,7 +162,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text11{
@@ -171,7 +171,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 
@@ -182,7 +182,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   height: 7%; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text13{
@@ -191,7 +191,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text14{
@@ -200,7 +200,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text15{
@@ -210,7 +210,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   height: 52px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .conatiener_desarrollo_text16{
@@ -219,7 +219,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   width: 770px; /* Ancho deseado en píxeles o porcentaje */
   height: 22px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
-  margin-top: -20px;
+  margin-top: -22px;
   background-color: rgb(187, 186, 185);
 }
 .conatiener_desarrollo_text17{
@@ -229,7 +229,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
   height: 52px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   /* margin-left: -2px; */
-  margin-top: -21px;
+  margin-top: -22px;
 
 }
 .btn {
@@ -272,7 +272,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
     color: black;
 
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-    font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 
 .conatiener_desarrollo_text p{
@@ -428,7 +427,6 @@ hasta aqui va el container de encabezado y comienza el de contenido
   color: rgb(0, 0, 0);
 
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
-  font-weight: bold; /* Grosor de la fuente (negrita) */
   width: 100%;
   margin-top: 3px;
   
