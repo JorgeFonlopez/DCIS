@@ -15,7 +15,7 @@ body{
 
 
 .container-encabezado{
-  border: 2px solid #000;
+  border: 1px solid #000;
   overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
   margin-bottom: 20px;
   height: auto; /* Alto deseado en píxeles o porcentaje */
