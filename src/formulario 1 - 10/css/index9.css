@@ -16,8 +16,7 @@ body {
 
 .container-alfa2 {
   width: 785px;
-  margin-left: 21px;
-  margin-top: 60px;
+  margin-top: 50px;
 }
 
 .container-encabezado {
@@ -51,7 +50,7 @@ body {
   width: 770px;
   height: 31px;
   margin: -6px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   margin-top: 26px;
   background-color: rgb(187, 186, 185);
 }
@@ -63,10 +62,10 @@ body {
 .container_apecto3 {
   background-color: white;
   border: 2px solid #000;
-  width: 800px;
+  width: 770px;
   height: 31px;
   margin: -6px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   margin-top: -8px;
   background-color: rgb(187, 186, 185);
 }
@@ -79,10 +78,10 @@ body {
 .container_izquierdo1_0 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: 4px;
 }
@@ -95,10 +94,10 @@ body {
 .container_izquierdo2_0 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
@@ -111,10 +110,10 @@ body {
 .container_izquierdo3_0 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
@@ -127,7 +126,7 @@ body {
 .container_derecho1_0 {
   background-color: white;
   border: 2px solid #000;
-  width: 571px;
+  width: 560px;
   height: 56px;
   margin: 40px auto;
   margin-left: 241px;
@@ -140,7 +139,7 @@ body {
 .container_derecho2_0 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 59px;
   margin: 40px auto;
   margin-left: 242px;
@@ -153,7 +152,7 @@ body {
 .container_derecho3_0 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -167,10 +166,10 @@ body {
 .container_izquierdo {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   margin-top: 4px;
   background-color: rgb(187, 186, 185);
 }
@@ -183,10 +182,10 @@ body {
 .container_izquierdo1 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   margin-top: -42px;
   background-color: rgb(187, 186, 185);
 }
@@ -199,10 +198,10 @@ body {
 .container_izquierdo2 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 142px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
@@ -215,10 +214,10 @@ body {
 .container_izquierdo3 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -41px;
 }
@@ -231,10 +230,10 @@ body {
 .container_izquierdo4 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -41px;
 }
@@ -246,10 +245,10 @@ body {
 .container_izquierdo5 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
+  width: 209px;
   height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
@@ -262,15 +261,30 @@ body {
 .container_izquierdo6 {
   background-color: white;
   border: 2px solid #000;
-  width: 211px;
-  height: 96px;
+  width: 209px;
+  height: 58px;
   margin: 40px auto;
-  margin-left: 12px;
+  margin-left: 31px;
   background-color: rgb(187, 186, 185);
   margin-top: -42px;
 }
 .container_izquierdo6 p {
-  margin-top: 5px;
+  margin-top: 1px;
+  text-align: start;
+  font-weight: bold;
+}
+.container_izquierdo7 {
+  background-color: white;
+  border: 2px solid #000;
+  width: 209px;
+  height: 96px;
+  margin: 40px auto;
+  margin-left: 31px;
+  background-color: rgb(187, 186, 185);
+  margin-top: -42px;
+}
+.container_izquierdo7 p {
+  margin-top: -1px;
   text-align: start;
   font-weight: bold;
 }
@@ -280,7 +294,7 @@ body {
 .container_derecho1 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -294,7 +308,7 @@ body {
 .container_derecho2 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -308,7 +322,7 @@ body {
 .container_derecho3 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 142px;
   margin: 40px auto;
   margin-left: 242px;
@@ -323,7 +337,7 @@ body {
 .container_derecho4 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -337,7 +351,7 @@ body {
 .container_derecho5 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -351,7 +365,7 @@ body {
 .container_derecho6 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -365,7 +379,7 @@ body {
 .container_derecho7 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 58px;
   margin: 40px auto;
   margin-left: 242px;
@@ -379,7 +393,7 @@ body {
 .container_derecho8 {
   background-color: white;
   border: 2px solid #000;
-  width: 570px;
+  width: 559px;
   height: 96px;
   margin: 40px auto;
   margin-left: 242px;
@@ -388,4 +402,43 @@ body {
 .container_derecho8 p {
   margin-top: 36px;
   text-align: start;
+}
+.btn {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+/* Estilo para el botón de éxito (verde) */
+.btn-primary {
+  color: #fff;
+  background-color: #28a745;
+  /* Verde de Bootstrap */
+  border-color: #28a745;
+  /* Verde de Bootstrap */
+  margin-top: -1%;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  /* Verde de Bootstrap */
+  border-color: #28a745;
+  /* Verde de Bootstrap */
+  margin-top: -1%;
+  margin-left: 65%;
+  width: 14%;
+}
+.Pagina{
+  margin-top: -8%;
+  margin-left: 81%;
 }
