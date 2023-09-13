@@ -13,6 +13,7 @@ body{
     height: 1300px;
 }
 
+
   
 .container-encabezado{
     border: 2px solid #000;
@@ -64,6 +65,28 @@ hasta aqui va el container de encabezado y comienza el de contenido
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
+.col-fecha{
+  /* background-color: yellow; */
+  position: relative;
+  top: 90px;
+}
+.col-fecha p{
+  /* text-align: start; */
+  position: relative;
+  left: -320px;
+}
+
+.col-pagina{
+  position: relative;
+  top: 55px;
+}
+.col-pagina p{
+  /* text-align: end; */
+  position: relative;
+  left: 330px;
+
+}
+
 
 /* Estilos responsivos */
 @media (max-width: 768px) {

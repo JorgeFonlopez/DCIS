@@ -90,6 +90,30 @@ hasta aqui va el container de encabezado y comienza el de contenido
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 
+.col-fecha{
+  /* background-color: yellow; */
+  position: relative;
+  top: 90px;
+}
+.col-fecha p{
+  /* text-align: start; */
+  position: relative;
+  left: -320px;
+}
+
+.col-pagina{
+  position: relative;
+  top: 55px;
+}
+.col-pagina p{
+  /* text-align: end; */
+  position: relative;
+  left: 330px;
+
+}
+
+
+
 /* Estilos responsivos */
 @media (max-width: 768px) {
     .container-alfa {
