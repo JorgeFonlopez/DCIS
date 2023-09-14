@@ -26,9 +26,9 @@ body {
     float: left;
     /* Ajustar la posición vertical del logo */
     /* Ajustar la posición horizontal del logo */
-    max-width: 130px;
+    max-width: 100%;
     /* Ajustar el ancho del logo */
-    height: 109px;
+    height: 107px;
     margin-right: 10px;
     /* Mantener la proporción de aspecto */
     /* Ajustar el margen negro alrededor del logo */
