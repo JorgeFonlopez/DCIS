@@ -89,3 +89,27 @@ body {
   text-align: start;
   font-size: 15px;
 }
+
+.btn-primary {
+  color: #fff;
+  background-color: #28a745;
+  /* Verde de Bootstrap */
+  border-color: #28a745;
+  /* Verde de Bootstrap */
+  margin-top: 9%;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  /* Verde de Bootstrap */
+  border-color: #28a745;
+  /* Verde de Bootstrap */
+  margin-top: -1%;
+  margin-left: 65%;
+  width: 14%;
+}
+.Pagina {
+  margin-top: -10%;
+  margin-left: 79%;
+}
