@@ -18,7 +18,7 @@ body{
     overflow: auto; /* Evita problemas de diseño si el contenido es más alto que la imagen */
     margin-bottom: 20px;
     height: auto; /* Alto deseado en píxeles o porcentaje */
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     margin: 0 auto;
 }
 
@@ -42,14 +42,14 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .container-contenido{
     /* background-color: white; */
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 205px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
 }
 #contenedor2{
 /* background-color: white; */
 border: 2px solid #000;
-width: 800px; /* Ancho deseado en píxeles o porcentaje */
+width: 770px; /* Ancho deseado en píxeles o porcentaje */
 height: 585px; /* Alto deseado en píxeles o porcentaje */
 margin: 20px auto;
 margin-top: -22px;
@@ -57,7 +57,7 @@ margin-top: -22px;
 #contenedor3{
     /* background-color: white; */
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 140px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
     margin-top: -22px;
@@ -66,16 +66,16 @@ margin-top: -22px;
 
 #con1{
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 30px; /* Alto deseado en píxeles o porcentaje */
   margin: -52px auto;
-  margin-top: 50px;
+  margin-top: 30px;
   background-color: rgb(187, 186, 185);
 }
 
 #con2{
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 30px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: 50px;
@@ -83,7 +83,7 @@ margin-top: -22px;
 }
 .conatiener_desarrollo_2{
     border: 2px solid #000;
-    width: 800px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 30px; /* Alto deseado en píxeles o porcentaje */
   margin: 20px auto;
   margin-top: -22px;
@@ -93,7 +93,7 @@ margin-top: -22px;
 .conatiener_desarrollo_text{
     /* background-color: white; */
     border: 2px solid #000;
-    width: 698px; /* Ancho deseado en píxeles o porcentaje */
+    width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 72px; /* Alto deseado en píxeles o porcentaje */
     margin: 20px auto;
     margin-left: 100px;
