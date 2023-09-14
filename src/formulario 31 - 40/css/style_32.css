@@ -1,0 +1,553 @@
+h1,
+h2,
+p {
+    line-height: 1;
+    /* Puedes ajustar este valor según tu preferencia (por ejemplo, 1.2) */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 850px;
+    height: 1300px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sena-logo {
+    /* Añadir posición absoluta para el logo */
+    float: left;
+    /* Ajustar la posición vertical del logo */
+    /* Ajustar la posición horizontal del logo */
+    max-width: 130px;
+    /* Ajustar el ancho del logo */
+    height: 109px;
+    margin-right: 10px;
+    /* Mantener la proporción de aspecto */
+    /* Ajustar el margen negro alrededor del logo */
+    border-right: 2px solid black;
+    /* Márgenes negros alrededor del logo */
+}
+
+.text-container {
+    background-color: #ffffff;
+    padding: 0px;
+    margin: 0 auto;
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: center;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+    height: 107px;
+    top: 105px;
+}
+
+.text1-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 0 auto;
+    top: 128px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text2-container {
+    background-color: #fff;
+    padding: 0px;
+    margin: 0 auto;
+    top: 126px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text3-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 0 auto;
+    top: 124px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: center;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text4-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: 22px;
+    /* Márgenes negros */
+    text-align: left;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 38px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 230px;
+    /* Ajustar el ancho del margen */
+}
+
+.text5-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -80px;
+    /* Márgenes negros */
+    text-align: left;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 38px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 230px;
+    /* Ajustar el ancho del margen */
+}
+
+.text6-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -182px;
+    /* Márgenes negros */
+    text-align: left;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 38px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 230px;
+    /* Ajustar el ancho del margen */
+}
+
+.text7-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -285px;
+    /* Márgenes negros */
+    text-align: left;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 38px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 533px;
+    /* Ajustar el ancho del margen */
+}
+
+.text8-container {
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -642px;
+    /* Márgenes negros */
+    text-align: left;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 270px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 538px;
+    /* Ajustar el ancho del margen */
+}
+
+.text9-container {
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -744px;
+    /* Márgenes negros */
+    text-align: justify;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 270px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 538px;
+    /* Ajustar el ancho del margen */
+}
+
+.text10-container {
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -846px;
+    /* Márgenes negros */
+    text-align: justify;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 270px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 538px;
+    /* Ajustar el ancho del margen */
+}
+
+.text11-container {
+    padding: 0px;
+    margin: 100px 0;
+    border: 2px solid black;
+    top: -948px;
+    /* Márgenes negros */
+    text-align: center;
+    /* Centrar el texto */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    left: 573px;
+    /* Ajustar la posición horizontal del margen y texto */
+    width: 235px;
+    /* Ajustar el ancho del margen */
+}
+
+.text12-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 0 auto;
+    top: -1050px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text13-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 0 auto;
+    top: -1052px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: center;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text14-container {
+    padding: 0px;
+    margin: 0 auto;
+    top: -1054px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text15-container {
+    padding: 0px;
+    margin: 0 auto;
+    top: -1056px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text16-container {
+    padding: 0px;
+    margin: 0 auto;
+    top: -1058px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text17-container {
+    padding: 0px;
+    margin: 0 auto;
+    top: -1060px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text18-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 0 auto;
+    top: -1062px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: justify;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+.text19-container {
+    background-color: rgb(187, 186, 185);
+    padding: 0px;
+    margin: 0 auto;
+    top: -1065px;
+    /* Ajustar la posición vertical del text */
+    border: 2px solid black;
+    /* Márgenes negros */
+    text-align: center;
+    /* text justificado */
+    position: relative;
+    /* Añadir posición relativa para posicionar el logo */
+    width: 770px;
+    /* Ajustar el ancho del margen */
+}
+
+h1 {
+    font-size: 15px;
+    color: #000000;
+    font-weight: normal;
+    margin-bottom: 16px;
+    margin-top: -13px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #555;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 13px;
+    color: #000000;
+    margin-bottom: 2px;
+    margin-top: 11px;
+}
+
+.text1-container p {
+    color: #000000;
+    margin-bottom: 9px;
+    margin-top: -14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.text2-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 18px;
+    margin-top: -11px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.text3-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 3px;
+    margin-top: -14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    position: center;
+}
+
+.text4-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.text5-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.text6-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.text7-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.text8-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.text9-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 23px;
+    margin-top: 37px;
+}
+
+.text10-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 23px;
+    margin-top: 36px;
+}
+
+.text11-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 23.5px;
+    margin-top: 36px;
+}
+
+.text12-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 5px;
+    margin-top: -11px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    position: center;
+}
+
+.text13-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 8px;
+    margin-top: -13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    position: center;
+}
+
+.text14-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 8px;
+    margin-top: -13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: center;
+}
+
+.text15-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 8px;
+    margin-top: -13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: center;
+}
+
+.text16-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 8px;
+    margin-top: -13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: center;
+}
+
+.text17-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 8px;
+    margin-top: -13px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: center;
+}
+
+.text18-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 6px;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    position: center;
+}
+
+.text19-container p {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 6px;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    position: center;
+}
