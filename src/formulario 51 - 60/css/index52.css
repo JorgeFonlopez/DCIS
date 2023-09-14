@@ -39,14 +39,8 @@ body{
 /* 
 hasta aqui va el container de encabezado y comienza el de contenido
 */
-.container-contenido{
-    /* background-color: white; */
-    border: 2px solid #000;
-    width: 770px; /* Ancho deseado en píxeles o porcentaje */
-    height: 205px; /* Alto deseado en píxeles o porcentaje */
-    margin: 20px auto;
-}
-#contenedor2{
+
+.container-contenido_1{
 /* background-color: white; */
 border: 2px solid #000;
 width: 770px; /* Ancho deseado en píxeles o porcentaje */
@@ -54,7 +48,7 @@ height: 420px; /* Alto deseado en píxeles o porcentaje */
 margin: 20px auto;
 margin-top: 30px;
 }
-#contenedor3{
+.container-contenido_2{
     /* background-color: white; */
     border: 2px solid #000;
     width: 770px; /* Ancho deseado en píxeles o porcentaje */
@@ -81,7 +75,7 @@ margin-top: 30px;
   margin-top: 50px;
   background-color: rgb(187, 186, 185);
 }
-.conatiener_desarrollo_2{
+.conatiener_desarrollo_text1{
     border: 2px solid #000;
     width: 770px; /* Ancho deseado en píxeles o porcentaje */
     height: 30px; /* Alto deseado en píxeles o porcentaje */
@@ -106,21 +100,44 @@ margin-top: 30px;
     font-size: 13px;
     color: black;
 
+    margin-left: 5px;
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
 
-.conatiener_desarrollo_text p{
-  text-align: center;
-  height: 5px;
-  font-size: 15px;
-  color: rgb(0, 0, 0);
+.container-contenido_1 p{
+  text-align: left;
+  height: 9px;
+  font-size: 13px;
+  color: black;
+
+  margin-left: 5px;
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+}
+
+.conatiener_desarrollo_text1 p{
+  text-align: left;
+  height: 9px;
+  font-size: 13px;
+  color: black;
 
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
   font-weight: bold; /* Grosor de la fuente (negrita) */
-  width: 80%;
-  margin-left: 5%;
 }
+
+.container-contenido_2 p {
+  text-align: left;
+  height: 9px;
+  font-size: 13px;
+  color: black;
+
+  margin-left: 5px;
+  font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+  font-weight: bold; /* Grosor de la fuente (negrita) */
+}
+
+
 
 /* Estilos responsivos */
 @media (max-width: 768px) {

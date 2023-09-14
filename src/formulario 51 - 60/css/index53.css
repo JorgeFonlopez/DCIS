@@ -127,6 +127,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
     font-size: 13px;
     color: black;
 
+    margin-left: 5px;
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
@@ -136,6 +137,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
     font-size: 13px;
     color: black;
 
+    margin-left: 5px;
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
@@ -145,6 +147,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
     font-size: 13px;
     color: black;
 
+    margin-left: 5px;
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
@@ -154,6 +157,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
     font-size: 13px;
     color: black;
 
+    margin-left: 5px;
     font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
@@ -164,12 +168,43 @@ hasta aqui va el container de encabezado y comienza el de contenido
   font-size: 15px;
   color: rgb(0, 0, 0);
 
+  margin-top: 5px;
   font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
   font-weight: bold; /* Grosor de la fuente (negrita) */
-  width: 80%;
-  margin-left: 5%;
 }
-
+.conatiener_desarrollo_text2 p{
+    text-align: left;
+    height: 5px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    
+    margin-left: 5px;
+    margin-top: 5px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+  }
+  .conatiener_desarrollo_text3 p{
+    text-align: left;
+    height: 5px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+  
+    margin-left: 5px;
+    margin-top: 5px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+  }
+  .conatiener_desarrollo_text4 p{
+    text-align: left;
+    height: 5px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+  
+    margin-left: 5px;
+    margin-top: 5px;
+    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    font-weight: bold; /* Grosor de la fuente (negrita) */
+  }
 
 /* Estilos responsivos */
 @media (max-width: 768px) {
