@@ -219,3 +219,61 @@ p {
     margin-left: 10px;
     margin-right: 10px;
 } 
+
+
+/* aqui empiesa lo de la fecha y demas */
+.col-fecha{
+    /* background-color: yellow; */
+    position: relative;
+    top: -380px;
+  }
+  .col-fecha p{
+    /* text-align: start; */
+    position: relative;
+    left: -330px;
+  }
+  
+  .col-pagina{
+    position: relative;
+    top: -400px;
+  }
+  .col-pagina p{
+    /* text-align: end; */
+    position: relative;
+    left: 325px;
+  
+  }
+  
+  /* este es el stylo de los botones */
+  .botones {
+    text-align: center; /* Centra horizontalmente los botones */
+    margin-top: -360px; /* Agrega un margen superior para separarlos del contenedor */
+  }
+  
+  .btn-regresar,
+  .btn-siguiente {
+    background-color: rgb(86, 184, 86); /* Color de fondo del botón */
+    color: #ffffff; /* Color del texto del botón */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    border: none; /* Elimina el borde del botón */
+    border-radius: 5px; /* Añade esquinas redondeadas */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    margin: 20px; /* Margen entre los botones */
+  }
+  .enlace-botones {
+    text-decoration: none; /* Elimina la subrayado predeterminado de los enlaces */
+    color: #ffffff; /* Cambia el color del texto del enlace si es necesario */
+  }
+  
+  .enlace-botones:hover {
+    /* Estilos de enlace al pasar el cursor si es necesario */
+    text-decoration: underline; /* Puedes subrayar el enlace al pasar el cursor */
+  }
+  
+  
+  .btn-regresar:hover,
+  .btn-siguiente:hover {
+    background-color: green; /* Color de fondo del botón al pasar el cursor */
+  }
+  

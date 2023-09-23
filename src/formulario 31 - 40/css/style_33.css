@@ -59,12 +59,14 @@ hasta aqui va el container de encabezado y comienza el de contenido
     text-align: start;
     height: 5px;
     font-size: 13px;
-    color: rgb(56, 56, 56);
+    color: black;
     
 
-    font-family: Arial, sans-serif; /* Tipo de letra (fuente) */
+    /* font-family: Arial, sans-serif; Tipo de letra (fuente) */
     font-weight: bold; /* Grosor de la fuente (negrita) */
 }
+
+/* aqui empiesa lo de la fecha y demas */
 .col-fecha{
   /* background-color: yellow; */
   position: relative;
@@ -119,6 +121,7 @@ hasta aqui va el container de encabezado y comienza el de contenido
 .btn-siguiente:hover {
   background-color: green; /* Color de fondo del botón al pasar el cursor */
 }
+
 
 
 /* Estilos responsivos */
